@@ -1,0 +1,8 @@
+ 
+Sales Summary Report
+------------------
+Total Revenue = 9100
+Best Selling Product = Mouse
+Total Units sold = 15
+Day with the highest sales = 2025-03-01
+Sales on that day = 5300
